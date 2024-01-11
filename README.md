@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htmluz&size_weight=0.5&count_weight=0.5&hide=css,html&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htmluz&size_weight=0.5&count_weight=0.5&hide=css,html&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
