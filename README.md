@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htmluz&size_weight=0.5&count_weight=0.5&hide=css,html&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) Supp I'm Luz, nice to meet you!🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htmluz&size_weight=0.5&count_weight=0.5&hide=css,html&layout=compact&theme=date_night)](https://github.com/anuraghazra/github-readme-stats) Supp I'm Luz, nice to meet you!🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹
 
 🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀
 
