@@ -1,13 +1,17 @@
-Supp I'm Luz, nice to meet you!🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹
+<p align="center">
+Sup im Luiz, a telephony network admin, sysadmin and pseudodev willing to someday just ride my bike.
+</p>
+<p align="center">🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀
+</p>
 
-🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀
+<p align="center">💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐
+</p>
 
-Started with programming a while ago and been doing some webdev side projects with js and now ts, really enjoy the backend aspect of it and am looking forward to work with software engineer in the future. Wanna work with rust someday in the far future.
+<p align="center">🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴
+</p>
 
-💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐
 
-Until now I've worked with networks in ISPs environments for almost 5 years handling roles in NOC, monitoring and technical support.
 
-🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴🎴
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htmluz&size_weight=0.4&count_weight=0.5&hide=scss,css,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmluz&size_weight=0.4&count_weight=0.5&hide=scss,css,html&layout=compact&theme=dark"
+</p>
